@@ -1,0 +1,20 @@
+{
+  "name": "training-nodejs-async-local-storage",
+  "version": "1.0.0",
+  "description": "An example use of AsyncLocalStorage",
+  "main": "index.ts",
+  "scripts": {
+    "start": "ts-node index.ts"
+  },
+  "keywords": [],
+  "author": "Arnaud Buchholz <arnaud.buchholz@sap.com>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.21"
+  }
+}
