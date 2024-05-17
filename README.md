@@ -6,6 +6,8 @@
 
 An example use of [AsyncLocalStorage](https://nodejs.org/api/async_context.html#class-asynclocalstorage).
 
+Check the [source code](https://github.com/ArnaudBuchholz/training-nodejs-async-local-storage/blob/main/index.ts) and look for comments with the symbol 🧑🏼‍🏫.
+
 ## 🖥️ How to demo
 
 * `npm start`
